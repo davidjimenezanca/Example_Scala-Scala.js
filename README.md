@@ -1,0 +1,3 @@
+﻿# Scala crosscompile Scala.js
+
+
